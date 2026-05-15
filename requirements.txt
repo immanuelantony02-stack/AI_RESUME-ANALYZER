@@ -1,4 +1,4 @@
 streamlit
 pypdf2
-OpenAI
-json
+openai
+python-dotenv
